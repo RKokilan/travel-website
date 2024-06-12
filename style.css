@@ -1,0 +1,357 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+select{
+    text-decoration: none;
+}
+
+
+
+.options
+
+{
+   text-align: center;
+  
+   list-style-type: none;
+   text-decoration: underline color(red);
+
+
+}
+
+
+
+.guidelink
+{
+    text-decoration: none;
+    color: rgb(252, 30, 60);
+    margin-left: 48%;
+}
+
+
+.visiting
+{
+    text-align: center;
+}
+
+.written
+{
+    text-align: center;
+}
+
+
+.guidelink h1
+{
+    color: rgb(51, 50, 50);
+}
+
+.written
+{
+    color: rgb(87, 88, 88);
+}
+
+
+
+.isthere{
+    font-size: 16px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   
+}
+
+.Quite{
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+.Quite a {
+    color: brown;
+}
+
+.icon
+{
+ font-size: 30px;
+
+}
+
+li{
+    list-style-type: square;
+}
+
+
+
+
+.footertext 
+
+{
+color: rgb(171, 241, 7);
+margin-top: -6%;
+margin-left: 23%;
+color: rgb(255, 255, 255);
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+.india a
+
+{
+ text-decoration: none;
+ font-size: 20px;
+ 
+}
+
+.india a
+{ 
+    color: brown;
+    margin-bottom: 30px;
+    
+}
+ 
+
+
+.dplogo
+
+{
+display: flex;
+
+}
+
+
+
+.subimage1
+{
+    
+   display: inline;
+   
+    
+}
+
+
+
+.subimage2
+{
+    
+   display: inline;
+   margin-left: 10px;
+   
+   
+    
+}
+
+
+.subimage3
+{
+    
+   display: inline;
+   margin-left: 10px;
+   
+}
+
+.trip1:hover
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: white ;
+    color: black;background-color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+.trip2:hover
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: white ;
+    color: black;background-color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.trip3:hover
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: white ;
+    color: black;background-color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+
+
+
+.trip1
+{
+
+    padding: 10;
+    background-color: rgb(65, 65, 65);
+    color: white;
+    margin-top:0px;
+    width: 210px;
+    text-align: center;
+}
+
+ 
+.trip2
+{
+
+    padding: 10;
+    background-color: rgb(65, 65, 65);
+    color: white;
+    margin-top:0px;
+    width: 210px;
+    text-align: center;
+}
+
+    
+
+
+ 
+.trip3
+{
+
+    padding: 10;
+    background-color: rgb(65, 65, 65);
+    color: white;
+    margin-top:0px;
+    width: 210px;
+    text-align: center;
+}
+
+
+
+.mainsub
+{
+    display:flex;
+    margin-left: 10px;
+ 
+}
+
+.par1
+{
+justify-content: baseline;
+position: absolute;
+margin-left: 20px;
+margin-top: 02%;
+margin-right: 30%;
+}
+
+
+.ftmainimg
+{
+ margin-top: 30%;
+ display: flex;
+text-align: center;
+font-family:sans-serif;
+
+}
+
+#ftimg1
+{
+    margin-left: 10px;
+}
+
+#ftimg1 p:hover
+{
+cursor: pointer;
+text-decoration: underline;
+}
+
+#ftimg2 p:hover
+{
+cursor: pointer;
+text-decoration: underline;
+}
+
+#ftimg3 p:hover
+{
+cursor: pointer;
+text-decoration: underline;
+}
+
+.mainhome
+{
+
+   
+    margin-top: 3%;
+    margin-left: 47%;
+    
+    
+}
+
+#back{
+    text-decoration: none;
+    color: black;
+}
+
+.home{
+    margin-left: 10%;
+}
+
+.mainhome .home:hover{
+    cursor: pointer;
+    color: rgb(31, 30, 30);
+  
+}
+
+
+
+
+.border
+{
+background-color: rgb(26, 22, 22);
+height: 30vh;
+width: 300%;
+margin-left: -580;
+
+}
+
+.ft
+{
+display: flex;
+margin-left: -410px;
+margin-top: -25%;
+}
+
+.ft .linktext 
+{
+   
+    margin-top: 4%;
+    margin-left:30px ;
+    color: white;
+    text-decoration: none;
+    color: white;
+}
+
+.findlink:hover
+{
+color: white;
+}
+
+
+
+.sociamediaicon
+{
+    margin-left:80%;
+    font-size: 180%;
+    margin-top: -8%;
+   
+}
+
+.sociamediaicon a:hover
+{
+    color: white;
+}
+
+.option:hover{
+    background-color: white;
+    color: black;
+}
